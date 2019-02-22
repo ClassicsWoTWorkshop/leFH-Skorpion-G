@@ -8,6 +8,6 @@ Thank you for downloading! To install:
 
 (Example: C:\Games\World_of_Tanks\mods\1.4.0.1)
 
-Included are two versions of the remodel - one for the regular Skorpion (unskinned), and one for the Skorpion G, both of which can be used either with a special 'mismatched' camouflage, or in the standard German Grey.
+Included are two versions of the remodel – one with a special ‘mismatched’ camouflage (default), and one in the standard German Grey. 
 
 Made by FastestClassic.
