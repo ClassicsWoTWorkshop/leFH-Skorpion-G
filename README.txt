@@ -6,7 +6,7 @@ Thank you for downloading! To install:
 
 3. Drag all three .wotmod files from the above folder to <Your WoT Directory\mods\<Game Version>.
 
-(Example: C:\Games\World_of_Tanks\mods\1.7.0.2)
+(Example: C:\Games\World_of_Tanks\mods\1.9.1.0)
 
 Included are two versions of the remodel – one with a special ‘mismatched’ camouflage (default), and one in the standard German Grey. 
 
